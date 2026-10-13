@@ -1,0 +1,603 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="utf-8">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+    <title>Portafolio Daniel Velásquez</title>
+    <meta content="" name="description">
+    <meta content="" name="keywords">
+    <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css'>
+    <!-- Favicons -->
+    <link href="assets/img/favicon.png" rel="icon">
+    <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+    <!-- Google Fonts -->
+    <link
+        href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i"
+        rel="stylesheet">
+
+    <!-- Vendor CSS Files -->
+    <link href="assets/vendor/aos/aos.css" rel="stylesheet">
+    <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+    <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+    <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+    <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+
+    <!-- Template Main CSS File -->
+    <link href="assets/css/style.css" rel="stylesheet">
+
+    <!-- =======================================================
+  * Template Name: MyResume - v4.7.0
+  * Template URL: https://bootstrapmade.com/free-html-bootstrap-template-my-resume/
+  * Author: BootstrapMade.com
+  * License: https://bootstrapmade.com/license/
+  ======================================================== -->
+</head>
+
+<body>
+
+    <!-- ======= Mobile nav toggle button ======= -->
+    <!-- <button type="button" class="mobile-nav-toggle d-xl-none"><i class="bi bi-list mobile-nav-toggle"></i></button> -->
+    <i class="bi bi-list mobile-nav-toggle d-xl-none"></i>
+    <!-- ======= Header ======= -->
+    <header id="header" class="d-flex flex-column justify-content-center">
+
+        <nav id="navbar" class="navbar nav-menu">
+            <ul>
+                <li><a href="#hero" class="nav-link scrollto active"><i class="bx bx-home"></i>
+                        <span data-lang="es">Inicio</span>
+                        <span data-lang="en">Home</span>
+                    </a></li>
+                <li><a href="#about" class="nav-link scrollto"><i class="bx bx-user"></i>
+                        <span data-lang="es">Acerca de</span>
+                        <span data-lang="en">About</span>
+                    </a></li>
+                <li><a href="#resume" class="nav-link scrollto"><i class="bx bx-file-blank"></i>
+                        <span data-lang="es">Resumen</span>
+                        <span data-lang="en">Resume</span>
+                    </a></li>
+                <!--<li><a href="#portfolio" class="nav-link scrollto"><i class="bx bx-book-content"></i> <span>Portafolio</span></a></li>-->
+                <li><a href="#contact" class="nav-link scrollto"><i class="bx bx-envelope"></i>
+                        <span data-lang="es">Contacto</span>
+                        <span data-lang="en">Contact</span>
+                    </a></li>
+                <li>
+                    <button id="lang-toggle" class="lang-toggle-btn">EN</button>
+                </li>
+            </ul>
+        </nav>
+        <!-- .nav-menu -->
+
+    </header>
+    <!-- End Header -->
+
+    <!-- ======= Hero Section ======= -->
+    <section id="hero" class="d-flex flex-column justify-content-center">
+        <div class="container" data-aos="zoom-in" data-aos-delay="100">
+            <h1>Daniel Velásquez</h1>
+            <p>
+                <span data-lang="es">Soy</span><span data-lang="en">I'm</span>
+                <span class="typed" data-typed-items="Cloud Developer, Freelancer, Creative, Enthusiast, AI"></span>
+            </p>
+            <div class="social-links">
+                <a href="https://twitter.com/davelasquez15" target="_blank" class="twitter"><i
+                        class="bx bxl-twitter"></i></a>
+                <a href="https://instagram.com/daniel_vh01" target="_blank" class="instagram"><i
+                        class="bx bxl-instagram"></i></a>
+                <a href="https://github.com/danielvh01" target="_blank" class="github"><i class='fa fa-github'></i></a>
+                <!-- <a href="#" class="linkedin" target="_blank"><i class="bx bxl-linkedin"></i></a> -->
+            </div>
+        </div>
+    </section>
+    <!-- End Hero -->
+
+    <main id="main">
+
+        <!-- ======= About Section ======= -->
+        <section id="about" class="about">
+            <div class="container" data-aos="fade-up">
+
+                <div class="section-title">
+                    <h2 data-lang="es">Acerca de</h2>
+                    <h2 data-lang="en">About</h2>
+                    <p data-lang="es">Soy graduado en Ingeniería en informática y sistemas de la Universidad Rafael
+                        Landívar de Guatemala. Actualmente me desempeño como Desarrollador de Software enfocado en Cloud
+                        y Modernización.</p>
+                    <p data-lang="en">I am a Computer Science graduate from Rafael Landívar University in Guatemala.
+                        Currently working as a Software Developer focused on Cloud and Modernization.</p>
+                </div>
+
+                <div class="row">
+                    <div class="col-lg-4">
+                        <img src="assets/img/profile-img.jpg" class="img-fluid" width="600" height="400" alt="">
+                    </div>
+                    <div class="col-lg-8 pt-4 pt-lg-0 content">
+                        <h3 data-lang="es">Desarrollador de Software & Cloud</h3>
+                        <h3 data-lang="en">Software & Cloud Developer</h3>
+
+                        <div class="row">
+                            <div class="col-lg-6">
+                                <ul>
+                                    <!-- <li><i class="bi bi-chevron-right"></i> <strong>Nacimiento:</strong> <span>noviembre 15, 2001</span></li> -->
+                                    <li><i class="bi bi-chevron-right" href="www.linkedin.com/in/danielvh01"></i>
+                                        <strong>Web:</strong> <span>www.linkedin.com/in/danielvh01</span>
+                                    </li>
+                                    <li><i class="bi bi-chevron-right"></i> <strong>
+                                            <span data-lang="es">Teléfono:</span>
+                                            <span data-lang="en">Phone:</span>
+                                        </strong> <span>+502 5413-1657</span></li>
+                                    <li><i class="bi bi-chevron-right"></i> <strong>
+                                            <span data-lang="es">Ciudad:</span>
+                                            <span data-lang="en">City:</span>
+                                        </strong> <span>Guatemala, Guatemala</span></li>
+                                </ul>
+                            </div>
+                            <div class="col-lg-6">
+                                <ul>
+                                    <li><i class="bi bi-chevron-right"></i> <strong>Degrees:</strong>
+                                        <span data-lang="es">Ingeniería en Informática y Sistemas</span>
+                                        <span data-lang="en">Computer Science Engineering</span>
+                                    </li>
+                                    <li><i class="bi bi-chevron-right"></i> <strong>Email:</strong>
+                                        <span>danielvelasquez32@gmail.com</span>
+                                    </li>
+                                    <li><i class="bi bi-chevron-right"></i> <strong>Freelance:</strong>
+                                        <span data-lang="es">Disponible</span>
+                                        <span data-lang="en">Available</span>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+
+            </div>
+        </section>
+        <!-- End About Section -->
+
+
+
+        <!-- ======= Skills Section ======= -->
+        <section id="skills" class="skills section-bg">
+            <div class="container" data-aos="fade-up">
+
+                <div class="section-title">
+                    <h2 data-lang="es">Habilidades</h2>
+                    <h2 data-lang="en">Skills</h2>
+                </div>
+
+                <div class="row skills-content">
+
+                    <div class="col-lg-6">
+
+                        <div class="progress">
+                            <span class="skill">Cloud & DevOps (AWS, Azure, OCI, Docker, K8s, Terraform) <i
+                                    class="val">90%</i></span>
+                            <div class="progress-bar-wrap">
+                                <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0"
+                                    aria-valuemax="100"></div>
+                            </div>
+                        </div>
+
+                        <div class="progress">
+                            <span class="skill">PL/SQL & Oracle DB <i class="val">100%</i></span>
+                            <div class="progress-bar-wrap">
+                                <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0"
+                                    aria-valuemax="100"></div>
+                            </div>
+                        </div>
+
+                        <div class="progress">
+                            <span class="skill">Java & Backend (Node, Python, C#) <i class="val">90%</i></span>
+                            <div class="progress-bar-wrap">
+                                <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0"
+                                    aria-valuemax="100"></div>
+                            </div>
+                        </div>
+
+                        <div class="progress">
+                            <span class="skill">CompTIA Security+ (SY0-701) <i class="val">100%</i></span>
+                            <div class="progress-bar-wrap">
+                                <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0"
+                                    aria-valuemax="100"></div>
+                            </div>
+                        </div>
+
+                    </div>
+
+                    <div class="col-lg-6">
+
+                        <div class="progress">
+                            <span class="skill">Oracle Cloud Integration & APEX <i class="val">100%</i></span>
+                            <div class="progress-bar-wrap">
+                                <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0"
+                                    aria-valuemax="100"></div>
+                            </div>
+                        </div>
+
+                        <div class="progress">
+                            <span class="skill">Jenkins & GitHub Actions <i class="val">90%</i></span>
+                            <div class="progress-bar-wrap">
+                                <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0"
+                                    aria-valuemax="100"></div>
+                            </div>
+                        </div>
+
+                        <div class="progress">
+                            <span class="skill">Frontend (React, Angular, Tailwind) <i class="val">85%</i></span>
+                            <div class="progress-bar-wrap">
+                                <div class="progress-bar" role="progressbar" aria-valuenow="85" aria-valuemin="0"
+                                    aria-valuemax="100"></div>
+                            </div>
+                        </div>
+
+                        <div class="progress">
+                            <span class="skill">Kubernetes CKAD <i class="val">80%</i></span>
+                            <div class="progress-bar-wrap">
+                                <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0"
+                                    aria-valuemax="100"></div>
+                            </div>
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+        </section>
+        <!-- End Skills Section -->
+
+        <!-- ======= Resume Section ======= -->
+        <section id="resume" class="resume">
+            <div class="container" data-aos="fade-up">
+
+                <div class="section-title">
+                    <h2 data-lang="es">Resumen</h2>
+                    <h2 data-lang="en">Resume</h2>
+                </div>
+
+                <div class="row">
+                    <div class="col-lg-6">
+                        <h3 class="resume-title" data-lang="es">Resumen</h3>
+                        <h3 class="resume-title" data-lang="en">Summary</h3>
+                        <div class="resume-item pb-0">
+                            <h4>Daniel Velásquez</h4>
+                            <p data-lang="es"><em>Ingeniero en Informática y Sistemas con sólida experiencia en
+                                    modernización de core bancario, arquitectura Cloud (OCI, AWS, Azure) y DevOps.
+                                    Especializado en integración de sistemas, desarrollo backend eficiente y
+                                    automatización de infraestructura.</em></p>
+                            <p data-lang="en"><em>Computer Science Engineer with strong experience in core banking
+                                    modernization, Cloud architecture (OCI, AWS, Azure), and DevOps. Specialized in
+                                    system integration, efficient backend development, and infrastructure
+                                    automation.</em></p>
+
+                            <ul>
+                                <li data-lang="es">Cloud & DevOps: AWS, Azure, OCI, Docker, K8s, Terraform, Jenkins</li>
+                                <li data-lang="en">Cloud & DevOps: AWS, Azure, OCI, Docker, K8s, Terraform, Jenkins</li>
+                                <li data-lang="es">Idiomas: Español (Nativo), Inglés (B2)</li>
+                                <li data-lang="en">Languages: Spanish (Native), English (B2 - Upper Intermediate)</li>
+                            </ul>
+                        </div>
+
+                        <h3 class="resume-title" data-lang="es">Educación</h3>
+                        <h3 class="resume-title" data-lang="en">Education</h3>
+                        <div class="resume-item">
+                            <h4 data-lang="es">Ingeniería en Informática y Sistemas</h4>
+                            <h4 data-lang="en">Computer Science Engineering</h4>
+                            <h5>2020 - 2025</h5>
+                            <p><em>Universidad Rafael Landívar, Guatemala</em></p>
+                            <p data-lang="es">Graduado en Ingeniería en informática y sistemas.</p>
+                            <p data-lang="en">Graduated in Computer Science Engineering.</p>
+                        </div>
+                        <div class="resume-item">
+                            <h4 data-lang="es">Bachiller en Ciencias y Letras</h4>
+                            <h4 data-lang="en">High School Diploma in Science and Letters</h4>
+                            <h5>2008 - 2019</h5>
+                            <p><em>Colegio Capouilliez, Guatemala</em></p>
+                        </div>
+
+                        <h3 class="resume-title" data-lang="es">Proyectos Tecnológicos</h3>
+                        <h3 class="resume-title" data-lang="en">Technological Projects</h3>
+
+                        <div class="resume-item">
+                            <h4 data-lang="es">Asistente de Cuidado Mental Impulsado por IA</h4>
+                            <h4 data-lang="en">AI-Powered Mental Care Assistant</h4>
+                            <h5>Jul 2024 – Nov 2024</h5>
+                            <p><em>Universidad Rafael Landívar</em></p>
+                            <ul data-lang="es">
+                                <li>Liderazgo en el desarrollo de una solución basada en inteligencia artificial para
+                                    soporte en salud mental, integrando Azure OpenAI y Azure Assistants.</li>
+                                <li>Diseño y despliegue de canalizaciones CI/CD en la nube.</li>
+                                <li>Automatización de infraestructura mediante Terraform y pruebas automatizadas.</li>
+                            </ul>
+                            <ul data-lang="en">
+                                <li>Led the development of an AI-based solution for mental health support, integrating
+                                    Azure OpenAI and Azure Assistants.</li>
+                                <li>Designed and deployed cloud CI/CD pipelines.</li>
+                                <li>Infrastructure automation using Terraform and automated testing.</li>
+                            </ul>
+                        </div>
+
+                        <div class="resume-item">
+                            <h4 data-lang="es">Despliegue de Aplicaciones Cloud-Native (AWS/Jenkins/Terraform)</h4>
+                            <h4 data-lang="en">Cloud-Native App Deployment (AWS/Jenkins/Terraform)</h4>
+                            <h5>2024 – 2025</h5>
+                            <ul data-lang="es">
+                                <li>Desarrollo de pipelines CI/CD en Jenkins para despliegue automatizado de APIs
+                                    contenerizadas en Node.js y Python hacia entornos AWS.</li>
+                                <li>Aprovisionamiento de arquitectura completa en AWS mediante Terraform (VPC, EC2, ALB,
+                                    Security Groups).</li>
+                                <li>Gestión y publicación de imágenes en AWS ECR / Dockerhub con webhooks de Github.
+                                </li>
+                                <li>Diseño de infraestructura de alta disponibilidad y seguridad (IAM, least privilege).
+                                    Observabilidad con Prometheus/Grafana.</li>
+                            </ul>
+                            <ul data-lang="en">
+                                <li>Developed CI/CD pipelines in Jenkins for automated deployment of containerized
+                                    Node.js and Python APIs to AWS environments.</li>
+                                <li>Full architecture provisioning on AWS using Terraform (VPC, EC2, ALB, Security
+                                    Groups).</li>
+                                <li>Image management and publishing on AWS ECR / Dockerhub with Github webhooks.</li>
+                                <li>High availability and security infrastructure design (IAM, least privilege).
+                                    Observability with Prometheus/Grafana.</li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-6">
+                        <h3 class="resume-title" data-lang="es">Experiencia Profesional</h3>
+                        <h3 class="resume-title" data-lang="en">Professional Experience</h3>
+
+                        <div class="resume-item">
+                            <h4 data-lang="es">Desarrollador de Software – Modernización de Core Bancario</h4>
+                            <h4 data-lang="en">Software Developer – Core Banking Modernization</h4>
+                            <h5>Jun 2024 – Presente</h5>
+                            <p><em>Banrural – Ciudad de Guatemala (Gerencia de Desarrollo de Software)</em></p>
+                            <ul data-lang="es">
+                                <li>Integración con equipo ágil SCRUM encargado de modernizar módulos del core bancario
+                                    legacy.</li>
+                                <li>Diseño y construcción de procesos ETLT desde cero para procesamiento de datos a gran
+                                    escala y operaciones backend eficientes.</li>
+                                <li>Estandarización de la exposición de servicios mediante APIs RESTful documentadas con
+                                    Swagger.</li>
+                                <li>Optimización de lógica backend en sistema legacy mediante tuning avanzado de SQL y
+                                    refactorización de SPs.</li>
+                                <li>Implementación de arquitectura fachada para exponer servicios modernizados a
+                                    frontend.</li>
+                            </ul>
+                            <ul data-lang="en">
+                                <li>Integrated with Agile SCRUM team optimizing legacy core banking modules.</li>
+                                <li>Designed and built ETLT processes from scratch for large-scale data processing and
+                                    efficient backend operations.</li>
+                                <li>Standardized service exposure via RESTful APIs documented with Swagger.</li>
+                                <li>Optimized backend logic in legacy system via advanced SQL tuning and SP refactoring.
+                                </li>
+                                <li>Implemented facade architecture to expose modernized services to frontend.</li>
+                            </ul>
+                        </div>
+
+                        <div class="resume-item">
+                            <h4 data-lang="es">Desarrollador - Líder de Integración</h4>
+                            <h4 data-lang="en">Developer - Integration Lead</h4>
+                            <h5>May 2022 – Jun 2024</h5>
+                            <p><em>Banrural – Ciudad de Guatemala (Gerencia de Transformación Digital)</em></p>
+                            <ul data-lang="es">
+                                <li>Liderazgo de integraciones utilizando Oracle Integration Cloud (OIC) para
+                                    orquestación de flujos de datos cloud/on-premise.</li>
+                                <li>Diseño de esquemas de bases de datos Oracle y automatización de pipelines ETL/ELT
+                                    con SQL*Loader, SQR, shell scripting y Control-M.</li>
+                                <li>Implementación de integraciones con plataformas ERP, Oracle CX y Accounting Hub.
+                                </li>
+                                <li>Desarrollo de formularios con Oracle APEX en OCI sobre bases de datos autónomas
+                                    (ATP/ADW).</li>
+                                <li>Desarrollo de datawarehouse en PL-SQL Oracle 19c.</li>
+                            </ul>
+                            <ul data-lang="en">
+                                <li>Led integrations using Oracle Integration Cloud (OIC) for cloud/on-premise data flow
+                                    orchestration.</li>
+                                <li>Designed Oracle DB schemas and automated ETL/ELT pipelines with SQL*Loader, SQR,
+                                    shell scripting, and Control-M.</li>
+                                <li>Implemented integrations with ERP platforms, Oracle CX, and Accounting Hub.</li>
+                                <li>Developed forms with Oracle APEX on OCI over autonomous databases (ATP/ADW).</li>
+                                <li>Developed data warehouse in PL-SQL Oracle 19c.</li>
+                            </ul>
+                        </div>
+
+                        <div class="resume-item">
+                            <h4 data-lang="es">Desarrollador Fullstack (Freelance)</h4>
+                            <h4 data-lang="en">Fullstack Developer (Freelance)</h4>
+                            <h5>2020 – 2025</h5>
+                            <p><em>Remoto</em></p>
+                            <ul data-lang="es">
+                                <li>Desarrollo de aplicaciones web fullstack personalizadas para operaciones de
+                                    microempresas.</li>
+                                <li>Construcción de interfaces modulares y responsivas utilizando Angular, React y
+                                    plantillas Tailwind CSS.</li>
+                                <li>Implementación de lógica backend con Node.js, Express, Python y C#.</li>
+                                <li>Gestión de contenerización y aprovisionamiento de infraestructura mediante
+                                    pipelines, IaC (Terraform) y Docker/K3s.</li>
+                            </ul>
+                            <ul data-lang="en">
+                                <li>Developed custom fullstack web applications for micro-enterprise operations.</li>
+                                <li>Built modular and responsive interfaces using Angular, React, and Tailwind CSS
+                                    templates.</li>
+                                <li>Implemented backend logic with Node.js, Express, Python, and C#.</li>
+                                <li>Managed containerization and infrastructure provisioning via pipelines, IaC
+                                    (Terraform), and Docker/K3s.</li>
+                            </ul>
+                        </div>
+
+                        <div class="resume-item">
+                            <h4 data-lang="es">Representante de Servicio al Cliente</h4>
+                            <h4 data-lang="en">Customer Service Representative</h4>
+                            <h5>Oct 2019 – Ene 2020</h5>
+                            <p><em>Walmart USA / Alorica – Guatemala</em></p>
+                            <ul data-lang="es">
+                                <li>Brindar atención al cliente de alta calidad por voz y chat en inglés fluido.</li>
+                                <li>Gestionar eficazmente escenarios desafiantes y ofrecer soluciones rápidas centradas
+                                    en el cliente.</li>
+                            </ul>
+                            <ul data-lang="en">
+                                <li>Provided high-quality customer service via voice and chat in fluent English.</li>
+                                <li>Effectively managed challenging scenarios and offered fast, customer-centric
+                                    solutions.</li>
+                            </ul>
+                        </div>
+
+                    </div>
+                </div>
+
+            </div>
+        </section>
+        <!-- End Resume Section -->
+
+        <!-- ======= Contact Section ======= -->
+        <section id="contact" class="contact">
+            <div class="container" data-aos="fade-up">
+
+                <div class="section-title">
+                    <h2 data-lang="es">Contacto</h2>
+                    <h2 data-lang="en">Contact</h2>
+                </div>
+
+                <div class="row mt-1">
+
+                    <div class="col-lg-4">
+                        <div class="info">
+
+
+                            <div class="email">
+                                <i class="bi bi-envelope"></i>
+                                <h4>Email:</h4>
+                                <p>danielvelasquez32@gmail.com</p>
+                            </div>
+
+                            <div class="phone">
+                                <i class="bi bi-phone"></i>
+                                <h4 data-lang="es">Teléfono:</h4>
+                                <h4 data-lang="en">Phone:</h4>
+                                <p>+502 5413-1657</p>
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                    <div class="col-lg-8 mt-5 mt-lg-0">
+
+                        <form action="https://formspree.io/f/xdaalgbe" method="post" role="form" class="php-email-form">
+                            <div class="row">
+                                <div class="col-md-6 form-group">
+                                    <input type="text" name="name" class="form-control" id="name" placeholder="Name"
+                                        required>
+                                </div>
+                                <div class="col-md-6 form-group mt-3 mt-md-0">
+                                    <input type="email" class="form-control" name="email" id="email" placeholder="Email"
+                                        required>
+                                </div>
+                            </div>
+                            <div class="form-group mt-3">
+                                <input type="text" class="form-control" name="subject" id="subject"
+                                    placeholder="Subject" required>
+                            </div>
+                            <div class="form-group mt-3">
+                                <textarea class="form-control" name="message" rows="5" placeholder="Message"
+                                    required></textarea>
+                            </div>
+                            <div class="my-3">
+                                <div class="loading">Loading</div>
+                                <div class="error-message">Error!</div>
+                                <div class="sent-message">Your message has been sent. Thank you!</div>
+                            </div>
+                            <div class="text-center">
+                                <button type="submit" data-lang="es">Enviar mensaje</button>
+                                <button type="submit" data-lang="en">Send Message</button>
+                            </div>
+                        </form>
+
+                    </div>
+
+                </div>
+
+            </div>
+        </section>
+        <!-- End Contact Section -->
+
+    </main>
+    <!-- End #main -->
+
+    <!-- ======= Footer ======= -->
+    <footer id="footer">
+        <div class="container">
+            <h3>Daniel Velásquez</h3>
+            <p data-lang="es">Me considero una persona responsable y con ganas de aportar todos los conocimientos que he
+                adquirido en trabajos anteriores, además de seguir creciendo como profesional..</p>
+            <p data-lang="en">I consider myself a responsible person eager to contribute all the knowledge I have
+                acquired in previous jobs, in addition to continuing to grow as a professional.</p>
+            <div class="social-links">
+                <a href="https://twitter.com/davelasquez15" target="_blank" class="twitter"><i
+                        class="bx bxl-twitter"></i></a>
+                <a href="https://instagram.com/daniel_vh01" target="_blank" class="instagram"><i
+                        class="bx bxl-instagram"></i></a>
+                <a href="https://github.com/danielvh01" target="_blank" class="github"><i class='fa fa-github'></i></a>
+            </div>
+            <div class="copyright">
+                &copy; Copyright <strong><span>MyResume</span></strong>. All Rights Reserved
+            </div>
+            <div class="credits">
+                <!-- All the links in the footer should remain intact. -->
+                <!-- You can delete the links only if you purchased the pro version. -->
+                <!-- Licensing information: [license-url] -->
+                <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/free-html-bootstrap-template-my-resume/ -->
+                Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+            </div>
+        </div>
+    </footer>
+    <!-- End Footer -->
+
+    <div id="preloader"></div>
+    <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i
+            class="bi bi-arrow-up-short"></i></a>
+
+    <!-- Vendor JS Files -->
+    <script src="assets/vendor/purecounter/purecounter.js"></script>
+    <script src="assets/vendor/aos/aos.js"></script>
+    <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+    <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+    <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+    <script src="assets/vendor/typed.js/typed.min.js"></script>
+    <script src="assets/vendor/waypoints/noframework.waypoints.js"></script>
+    <script src="assets/vendor/php-email-form/validate.js"></script>
+
+    <!-- Template Main JS File -->
+    <script src="assets/js/main.js"></script>
+
+    <!-- Language Switch Logic -->
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const toggleBtn = document.getElementById('lang-toggle');
+            const body = document.body;
+
+            // Check saved language
+            const currentLang = localStorage.getItem('lang') || 'es';
+            if (currentLang === 'en') {
+                body.classList.add('lang-en');
+                toggleBtn.textContent = 'ES';
+            }
+
+            toggleBtn.addEventListener('click', () => {
+                const isEnglish = body.classList.toggle('lang-en');
+                localStorage.setItem('lang', isEnglish ? 'en' : 'es');
+                toggleBtn.textContent = isEnglish ? 'ES' : 'EN';
+            });
+        });
+    </script>
+
+</body>
+
+</html>
